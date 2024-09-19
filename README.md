@@ -39,5 +39,5 @@ Performance is assessed using d-prime (d'), with SVM outputs either:
 - Sigmoid-transformed probabilities.
 - Calibrated probabilities using Platt scaling.
 
-
+----------
 Relevant scripts to run the different processing stages can be found in the ipynb folder
